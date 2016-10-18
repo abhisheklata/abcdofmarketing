@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u1",
+				"u1"
+			],
+			[
+				"Ite",
+				"Item1"
+			],
+			[
+				"I",
+				"Item2"
+			],
+			[
+				"It",
+				"Item1"
+			],
+			[
+				"g",
+				"Gplus"
+			],
+			[
+				"Tw",
+				"TwittrUrl"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"replace",
+				"replace"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"price",
+				"price1"
+			],
+			[
+				"getText",
+				"getText"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"faq",
+				"faqs1"
+			],
+			[
+				"a",
+				"apply"
+			],
+			[
+				"C",
+				"Contact"
+			],
+			[
+				"E",
+				"EvaluationProcess"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sp",
+				"spin"
+			],
+			[
+				"click",
+				"click"
+			],
+			[
+				"hc",
+				"hcltech"
+			],
+			[
+				"S",
+				"StatusCode"
+			],
+			[
+				"pa",
+				"Page"
+			],
+			[
+				"page",
+				"Page"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"Eat",
+				"iEatCucumbers"
+			],
+			[
+				"cucu",
+				"Cucumbers"
+			],
+			[
+				"pre",
+				"press"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"B",
+				"BaseUrl"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"set",
+				"set1"
+			],
+			[
+				"s",
+				"s1"
+			],
+			[
+				"get_",
+				"get_name"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/innoraft/abhishek/project/abcdofmarketing/index.html",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_image.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_variables.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_normalize.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_border-radius.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_mixins.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_wells.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/test/pages_test.rb",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/templates/project/styles.sass",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_table-row.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_opacity.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_forms.scss",
+		"/home/innoraft/abhishek/other/test/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_navs.scss",
+		"/home/innoraft/behat/features/bootstrap/FooterContext.php",
+		"/home/innoraft/behat/behat.yml",
+		"/home/innoraft/Downloads/sample.php",
+		"/home/innoraft/behat/features/bootstrap/StatusContext.php",
+		"/home/innoraft/behat/features/footer.feature",
+		"/home/innoraft/behat/features/webpagecompare.feature",
+		"/home/innoraft/behat/features/bootstrap/CompareContext.php",
+		"/home/innoraft/behat/features/table.feature",
+		"/home/innoraft/behat/features/faq.feature",
+		"/home/innoraft/behat/features/bootstrap/FaqContext.php",
+		"/home/innoraft/Untitled Document",
+		"/home/innoraft/behat/features/bootstrap/VariantContext.php",
+		"/home/innoraft/behat/features/variant.feature",
+		"/home/innoraft/behat/features/bootstrap/MeContext.php",
+		"/home/innoraft/behat/features/bootstrap/YouContext.php",
+		"/home/innoraft/behat/features/bootstrap/MainnContext.php",
+		"/home/innoraft/behat/features/Mainsubcontext.feature",
+		"/home/innoraft/behat/features/homepage.feature",
+		"/home/innoraft/behat/features/bootstrap/FeatureContext.php",
+		"/home/innoraft/behat/features/bootstrap/InlinkContext.php",
+		"/home/innoraft/behat/composer.json",
+		"/home/innoraft/behat/features/bootstrap/LogContext.php",
+		"/home/innoraft/behat/features/status.feature",
+		"/home/innoraft/behat/features/log.feature",
+		"/home/innoraft/behat/features/bootstrap/TableContext.php",
+		"/home/innoraft/behat/features/gettext.feature",
+		"/home/innoraft/behat/features/bootstrap/SubContext.php",
+		"/home/innoraft/behat/features/bootstrap/MainContext.php",
+		"/home/innoraft/behat/features/placeholder.feature",
+		"/home/innoraft/behat/features/login.feature",
+		"/home/innoraft/behat/features/bootstrap/PlaceholdContext.php",
+		"/home/innoraft/Downloads/Behat2.4/features/Search2.feature",
+		"/home/innoraft/Downloads/Behat2.4/features/Search1.feature",
+		"/home/innoraft/Downloads/Behat2.4/features/bootstrap/Search1Context.php",
+		"/home/innoraft/Downloads/Behat2.4/features/Control.feature",
+		"/home/innoraft/Downloads/Behat2.4/behat.yml",
+		"/home/innoraft/Downloads/Behat2.4/features/bootstrap/TimehubContext.php",
+		"/home/innoraft/Downloads/Behat2.4/features/Timehub.feature",
+		"/home/innoraft/Downloads/Behat2.4/features/bootstrap/FeatureContext.php",
+		"/home/innoraft/behat/features/bootstrap/log.php",
+		"/home/innoraft/sample.php",
+		"/home/innoraft/Downloads/Behat2.4/features/bootstrap/Search2Context.php",
+		"/home/innoraft/behat/features/phpadder.feature",
+		"/home/innoraft/behat/features/Search1.feature",
+		"/home/innoraft/behat/features/bootstrap/Phpadder.php",
+		"/home/innoraft/behat/features/bootstrap/Search1Context.php",
+		"/home/innoraft/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nhttp://www",
+			"@javascript",
+			"\n',",
+			"\nhttps",
+			"\n',",
+			"',\n'",
+			"'\n'",
+			"\n'",
+			"http",
+			"|\n   |",
+			"|\n|",
+			"  			  |",
+			"  			      |",
+			"  			               |",
+			"  			                          |",
+			"  		 |",
+			"  		|",
+			"  			          |",
+			"  			 |",
+			"  			   |",
+			"  			              |",
+			"  			                      |",
+			"|			  | http://dev",
+			"|			                  | http://dev",
+			"|			      | http://dev",
+			"|			                          | http://dev",
+			"|			                      | http://dev",
+			"|			              | http://dev",
+			"|			          | http://dev",
+			"|			          							  | http://dev",
+			"|			         | http://dev",
+			"|							  | http://dev",
+			"|												  | http://dev",
+			"|												  |",
+			"|	|",
+			"\nhttps",
+			"\n\nhttps",
+			"|\n    |",
+			"|\n   |",
+			"|\n|",
+			"\nhttp",
+			"\n\nhttp",
+			"http://www.maxhealthcare.in",
+			"@javascript",
+			"strcmp",
+			"https://www.maxhealthcare.in/",
+			"http://www.maxhealthcare.in/",
+			"https://ssl.max.sites.innoraft.com/",
+			"<br />"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"',\n'http://www",
+			"',",
+			"', \n'https",
+			"',",
+			"', \n'",
+			"',\n'",
+			"'\n'",
+			"'http",
+			"|\n    |",
+			"|\n   |",
+			"      |",
+			"  			  |",
+			"  			              |",
+			"  			               |",
+			"  		  |",
+			"  		 |",
+			"  		|",
+			"  			  |",
+			"  			 |",
+			"  			   |",
+			"  			          |",
+			" 			  | http://dev",
+			" 			                  | http://dev",
+			" 			      | http://dev",
+			" 			                          | http://dev",
+			" 			                      | http://dev",
+			" 			              | http://dev",
+			" 			          | http://dev",
+			" 			          							  | http://dev",
+			"|			          | http://dev",
+			"|			         | http://dev",
+			"|							  | http://dev",
+			"|							  |",
+			"|												  |",
+			" |\n| https",
+			"\nhttps",
+			"                     |\n    |",
+			"|\n    |",
+			"|\n     |",
+			"|\n    |",
+			"|\n   |",
+			" |\n| http",
+			"\nhttp",
+			"https://ssl.max.sites.innoraft.com",
+			"strcasecmp",
+			"http://www.maxhealthcare.in/",
+			"https://www.maxhealthcare.in/",
+			"http://www.maxhealthcare.in/",
+			"',\\n",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

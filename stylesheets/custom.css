@@ -1,0 +1,440 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* @import "compass/reset"; */
+/* ================================================ custom reset start */
+/* line 9, ../sass/custom.scss */
+body {
+  font-family: 'Electrolize', sans-serif;
+}
+
+/* line 10, ../sass/custom.scss */
+.row-0 {
+  margin: 0;
+}
+/* line 11, ../sass/custom.scss */
+.row-0 [class*="col-"] {
+  padding: 0;
+}
+
+/* line 16, ../sass/custom.scss */
+.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+  font-size: 0;
+  background: transparent;
+  margin: 0;
+}
+/* line 18, ../sass/custom.scss */
+.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
+  background: transparent;
+  color: #aaa;
+}
+/* line 22, ../sass/custom.scss */
+.owl-theme .owl-controls .owl-prev::after {
+  content: "\f060";
+  font-family: fontawesome;
+  font-size: 14px;
+}
+/* line 28, ../sass/custom.scss */
+.owl-theme .owl-controls .owl-next::after {
+  content: "\f061";
+  font-family: fontawesome;
+  font-size: 14px;
+}
+
+/* line 37, ../sass/custom.scss */
+.popular_post .owl-controls {
+  position: absolute;
+  right: 0;
+  top: -75px;
+  width: 54px;
+}
+
+/* ================================================ custom reset end */
+/* ================================================ variable start */
+/* media breakpoint start*/
+/* media breakpoint end*/
+/* ================================================ header start */
+/* line 73, ../sass/custom.scss */
+.header {
+  padding: 35px 0;
+}
+/* line 76, ../sass/custom.scss */
+.header .menu_bar_dv .navbar-default {
+  background: none;
+  border: none;
+  border-radius: 0;
+  margin: 0;
+}
+/* line 79, ../sass/custom.scss */
+.header .menu_bar_dv .navbar-default .nav li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/* line 81, ../sass/custom.scss */
+.header .menu_bar_dv .navbar-default .nav li a {
+  font-size: 12px;
+  text-transform: uppercase;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+/* line 84, ../sass/custom.scss */
+.header .menu_bar_dv .navbar-default .nav li.active a {
+  background: transparent;
+  color: #19BCE7;
+  position: relative;
+}
+/* line 85, ../sass/custom.scss */
+.header .menu_bar_dv .navbar-default .nav li.active a::before {
+  background: #19BCE7;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  height: 2px;
+  width: 60px;
+  content: "";
+}
+
+/* ================================================ header end */
+/* ================================================ banner section start */
+/* line 94, ../sass/custom.scss */
+.banner-section {
+  margin-bottom: 50px;
+}
+/* line 96, ../sass/custom.scss */
+.banner-section .main_slider {
+  position: relative;
+}
+/* line 98, ../sass/custom.scss */
+.banner-section .main_slider .owl-controls {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+/* line 103, ../sass/custom.scss */
+.banner-section .banner-section-left .col-sm-12:first-child .banner-sm-sec {
+  margin-bottom: 12%;
+}
+/* line 108, ../sass/custom.scss */
+.banner-section .banner-sm-sec {
+  position: relative;
+}
+/* line 110, ../sass/custom.scss */
+.banner-section .banner-sm-sec .banner-sm-sec-info {
+  position: absolute;
+  bottom: 0;
+  background: #ff6d00;
+  width: 100%;
+  color: #fff;
+  padding: 10px 15px;
+}
+/* line 117, ../sass/custom.scss */
+.banner-section .banner-sm-sec .banner-sm-sec-info h4 {
+  margin: 0;
+}
+/* line 120, ../sass/custom.scss */
+.banner-section .banner-sm-sec .banner-sm-sec-info i {
+  color: #b23b00;
+  padding: 3px 0 0;
+  font-size: 30px;
+}
+
+/* ================================================ banner section End */
+/* ================================================ feature post start */
+/* line 133, ../sass/custom.scss */
+.feature_post .feature_post_inr {
+  padding-left: 80px;
+  position: relative;
+}
+/* line 136, ../sass/custom.scss */
+.feature_post .feature_post_inr .side_title {
+  position: absolute;
+  left: 0;
+  width: 80px;
+  background: #F33F2E;
+  top: 0;
+  height: 100%;
+}
+/* line 143, ../sass/custom.scss */
+.feature_post .feature_post_inr .side_title h3 {
+  bottom: 120px;
+  color: #fff;
+  font-size: 30px;
+  left: -75px;
+  position: absolute;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+/* line 152, ../sass/custom.scss */
+.feature_post .feature_post_inr .side_title:after {
+  border-color: transparent transparent transparent #f33f2e;
+  border-style: solid;
+  border-width: 30px;
+  content: "";
+  position: absolute;
+  right: -60px;
+  top: 80px;
+  z-index: 9;
+}
+/* line 163, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_info {
+  bottom: 0;
+  padding: 15px 10px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  transition: all 0.5s;
+  height: 90px;
+  color: #fff;
+}
+/* line 172, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_info .ovrly_info {
+  opacity: 0;
+  visibility: hidden;
+  height: 0;
+}
+/* line 176, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_info .ovrly_info h5 {
+  color: #19BCE7;
+}
+/* line 178, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_info .date_sml {
+  margin: 0;
+}
+/* line 181, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_info h3 {
+  margin-top: 10px;
+}
+/* line 186, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx.odd .feature_post_info {
+  background: #202020;
+}
+/* line 189, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx.even .feature_post_info {
+  background: #ff6d00;
+}
+/* line 192, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx {
+  overflow: hidden;
+}
+/* line 194, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx:hover .feature_post_info {
+  transition: all 0.5s;
+  height: 100%;
+  bottom: 0;
+}
+/* line 198, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx:hover .feature_post_info .ovrly_info {
+  opacity: 1;
+  visibility: visible;
+  height: auto;
+}
+/* line 204, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx:hover .feature_post_info_inr {
+  margin-top: -30px;
+  position: relative;
+  top: 50%;
+}
+/* line 212, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx.odd:hover .feature_post_info {
+  background: rgba(32, 32, 32, 0.9);
+}
+/* line 217, ../sass/custom.scss */
+.feature_post .feature_post_inr .feature_post_bx.even:hover .feature_post_info {
+  background: rgba(255, 109, 0, 0.9);
+}
+
+/* ================================================ feature post End */
+/* line 225, ../sass/custom.scss */
+.advertising_mn {
+  padding: 25px 0;
+  background-image: url("../images/bg_one.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-positon: center;
+}
+/* line 232, ../sass/custom.scss */
+.advertising_mn h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  margin-top: 10px;
+}
+
+/* ================================================ footer start */
+/* line 241, ../sass/custom.scss */
+.footer_mn {
+  padding: 30px 0;
+  background: #252831;
+  color: #F5F5F5;
+}
+/* line 245, ../sass/custom.scss */
+.footer_mn .popular_post p {
+  margin: 0;
+}
+/* line 249, ../sass/custom.scss */
+.footer_mn .foot_bx ul {
+  padding: 0;
+}
+/* line 251, ../sass/custom.scss */
+.footer_mn .foot_bx ul li {
+  border-bottom: 1px solid #63666D;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  color: #F5F5F5;
+}
+/* line 256, ../sass/custom.scss */
+.footer_mn .foot_bx ul li:hover {
+  border-color: #19BCE7;
+}
+/* line 259, ../sass/custom.scss */
+.footer_mn .foot_bx ul li:hover a {
+  color: #F5F5F5;
+}
+/* line 263, ../sass/custom.scss */
+.footer_mn .foot_bx ul li li {
+  border: none;
+}
+/* line 268, ../sass/custom.scss */
+.footer_mn h4 {
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #F5F5F5;
+}
+/* line 276, ../sass/custom.scss */
+.footer_mn .archives_mn .badge {
+  float: right;
+  background: none;
+  color: #63666D;
+  font-weight: normal;
+}
+/* line 282, ../sass/custom.scss */
+.footer_mn .archives_mn a {
+  display: block;
+  color: #63666D;
+}
+/* line 289, ../sass/custom.scss */
+.footer_mn .post_info ul li {
+  border-right: 1px solid color-primary !important;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 14px;
+  padding-bottom: 0 !important;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 0 !important;
+}
+/* line 301, ../sass/custom.scss */
+.footer_mn .date {
+  color: #19BCE7 !important;
+}
+/* line 304, ../sass/custom.scss */
+.footer_mn .comment {
+  color: #63666D !important;
+}
+/* line 308, ../sass/custom.scss */
+.footer_mn .popular_topic a {
+  color: #63666D;
+  display: block;
+}
+/* line 311, ../sass/custom.scss */
+.footer_mn .popular_topic a i {
+  float: right;
+}
+
+/* ================================================ footer end */
+/* line 320, ../sass/custom.scss */
+.banner-section-inr {
+  position: relative;
+}
+
+/* line 323, ../sass/custom.scss */
+#toTop {
+  position: fixed;
+  z-index: 99;
+  border: 1px solid #333;
+  width: 50px;
+  text-align: center;
+  right: 15px;
+  background: #fff;
+  bottom: 50px;
+  padding: 5px 10px;
+  display: none;
+  cursor: pointer;
+}
+/* line 335, ../sass/custom.scss */
+#toTop p {
+  margin: 0;
+}
+/* line 338, ../sass/custom.scss */
+#toTop i {
+  color: #999;
+}
+
+/* line 342, ../sass/custom.scss */
+.footer_copy {
+  color: #888;
+  font-size: 13px;
+  padding: 30px 0;
+}
+
+@media screen and (min-width: 768px) {
+  /* line 348, ../sass/custom.scss */
+  .banner-section > .container > .row > .col-sm-4 {
+    width: 28%;
+  }
+
+  /* line 351, ../sass/custom.scss */
+  .banner-section > .container > .row > .col-sm-8 {
+    width: 72%;
+  }
+}
+@media screen and (max-width: 768px) {
+  /* line 357, ../sass/custom.scss */
+  .header {
+    box-shadow: 0 4px 3px 0 #ccc;
+    margin-bottom: 20px;
+    padding: 15px 0;
+  }
+
+  /* line 362, ../sass/custom.scss */
+  .menu_bar_dv {
+    margin-top: -50px;
+  }
+
+  /* line 368, ../sass/custom.scss */
+  .feature_post .feature_post_inr .side_title h3 {
+    bottom: auto;
+    top: 120px;
+  }
+}
+@media screen and (max-width: 480px) {
+  /* line 377, ../sass/custom.scss */
+  .logo_tp {
+    max-width: 200px;
+    position: relative;
+    z-index: 99;
+  }
+
+  /* line 382, ../sass/custom.scss */
+  .menu_bar_dv {
+    margin-top: -40px;
+  }
+
+  /* line 387, ../sass/custom.scss */
+  .banner-section .banner-sm-sec .banner-sm-sec-info {
+    padding: 5px 8px;
+  }
+  /* line 389, ../sass/custom.scss */
+  .banner-section .banner-sm-sec .banner-sm-sec-info i {
+    font-size: 16px;
+  }
+  /* line 392, ../sass/custom.scss */
+  .banner-section .banner-sm-sec .banner-sm-sec-info h4 {
+    font-size: 12px;
+  }
+  /* line 395, ../sass/custom.scss */
+  .banner-section .banner-sm-sec .banner-sm-sec-info .date {
+    font-size: 11px;
+  }
+}
